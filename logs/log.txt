@@ -84,3 +84,13 @@
 14:37:06.875 [] [main] INFO  c.r.controllers.AccountController - Exiting admin menu
 14:37:08.703 [] [main] INFO  c.r.controllers.AccountController - Leaving employee menu
 14:37:11.370 [] [main] INFO  c.r.controllers.MenuController - Ending the application
+20:41:18.427 [] [main] INFO  c.r.controllers.MenuController - Starting the application
+20:41:27.269 [] [main] INFO  c.r.controllers.AccountController - In account options
+20:41:31.699 [] [main] INFO  c.r.controllers.MenuController - Ending the application
+20:51:58.189 [] [main] INFO  c.r.controllers.MenuController - Starting the application
+20:52:09.963 [] [main] INFO  c.r.controllers.AccountController - In account options
+20:52:13.381 [] [main] INFO  c.r.controllers.AccountController - Accessing accounts
+20:52:15.355 [] [main] INFO  c.r.controllers.AccountController - Accessed account
+20:52:16.563 [] [main] INFO  c.r.controllers.AccountController - In deposit
+20:52:19.887 [] [main] INFO  c.r.controllers.AccountController - Deposit complete
+20:52:22.150 [] [main] INFO  c.r.controllers.MenuController - Ending the application
